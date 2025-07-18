@@ -1,11 +1,15 @@
-# Contador de distância de tempo entre diferentes dias
+# Contagem de tempo
 
-## O usuário irá informar o dia de inicio e o dia de término, o horário de inicio e  de término(em horas, minutos e segundos) de algum evento por exemplo. O programa vai imprimir na tela a duração entre um e outro.
+## Desenvolvimento de aplicações que envolvem contagem de tempo
 
-## Tecnologias utilizadas até o momento:
+### Tecnologias utilizadas:
 
- - C# .NET 8.0;
- - Visual Studio.
+ Para o desenvolvimento desse repositório está sendo utilizado o ambiente de desenvolvimento do Visual Studio e a linguagem de programação C# como ferramenta de console.
+
+### Aplicações:
+
+ - [Diferença de Dias](csharp/ConversorTempo/ConversorTempo/Program.cs)
+ - [Diferença de Horas](csharp/DiferencaHoras/DiferencaHoras/Program.cs)
 
 ---
 Feito por [Luciano Ribeiro](https://github.com/LucianoR8)
