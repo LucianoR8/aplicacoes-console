@@ -8,41 +8,49 @@ namespace MyApp
         static void Main(string[] args)
         {
             int horaInicio, minutoInicio, horaFim, minutoFim, totalInicio, totalFim, diferenca, horaFinal, minutoFinal;
-            string[] vetor = Console.ReadLine().Split(' ');
-            horaInicio = int.Parse(vetor[0]);
-            minutoInicio = int.Parse(vetor[1]);
-            horaFim = int.Parse(vetor[2]);
-            minutoFim = int.Parse(vetor[3]);
+
+            Console.WriteLine("Forneça as informações abaixo para saber a duração total");
+            Console.Write("Hora de inicio: ");
+            horaInicio = int.Parse(Console.ReadLine());
+
+            Console.Write("Minuto de inicio: ");
+            minutoInicio = int.Parse(Console.ReadLine());
+
+            Console.Write("Hora final: ");
+            horaFim = int.Parse(Console.ReadLine());
+
+            Console.Write("Minuto final: ");
+            minutoFim = int.Parse(Console.ReadLine());
 
             totalInicio = horaInicio * 60 + minutoInicio;
             totalFim = horaFim * 60 + minutoFim;
 
             if (totalInicio == totalFim)
             {
-                Console.WriteLine("O JOGO DUROU 24 HORA(S) E 0 MINUTO(S)");
+                Console.WriteLine("Duração de 24 horas e 0 minutos");
             }
             else if (totalInicio > totalFim)
             {
-                horaFinal = 23 - horaInicio + horaFim;
+                horaFinal = 24 - horaInicio + horaFim;
                 minutoFinal = 60 - minutoInicio + minutoFim;
                 if (minutoFinal == 60)
                 {
                     minutoFinal = 0;
                 }
-                Console.WriteLine("O JOGO DUROU " + horaFinal + " HORA(S) E " + minutoFinal + " MINUTO(S)");
+                Console.WriteLine("Duração de " + horaFinal + " hora(s) e " + minutoFinal + " minutos(s)");
             }
             else
             {
                 diferenca = totalFim - totalInicio;
                 if (diferenca < 60)
                 {
-                    Console.WriteLine("O JOGO DUROU 0 HORA(S) E " + diferenca + " MINUTO(S)");
+                    Console.WriteLine("Duração de " + diferenca + " minuto(s)");
                 }
                 else
                 {
                     horaFinal = diferenca / 60;
                     minutoFinal = diferenca % 60;
-                    Console.WriteLine("O JOGO DUROU " + horaFinal + " HORA(S) E " + minutoFinal + " MINUTO(S)");
+                    Console.WriteLine("Duração de " + horaFinal + " hora(s) e " + minutoFinal + " minuto(s)");
                 }
             }
 

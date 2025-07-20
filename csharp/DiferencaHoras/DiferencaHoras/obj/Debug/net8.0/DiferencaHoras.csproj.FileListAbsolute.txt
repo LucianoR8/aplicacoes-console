@@ -1,0 +1,15 @@
+C:\Documentos\codigos_github\contador_tempo\csharp\DiferencaHoras\DiferencaHoras\bin\Debug\net8.0\DiferencaHoras.exe
+C:\Documentos\codigos_github\contador_tempo\csharp\DiferencaHoras\DiferencaHoras\bin\Debug\net8.0\DiferencaHoras.deps.json
+C:\Documentos\codigos_github\contador_tempo\csharp\DiferencaHoras\DiferencaHoras\bin\Debug\net8.0\DiferencaHoras.runtimeconfig.json
+C:\Documentos\codigos_github\contador_tempo\csharp\DiferencaHoras\DiferencaHoras\bin\Debug\net8.0\DiferencaHoras.dll
+C:\Documentos\codigos_github\contador_tempo\csharp\DiferencaHoras\DiferencaHoras\bin\Debug\net8.0\DiferencaHoras.pdb
+C:\Documentos\codigos_github\contador_tempo\csharp\DiferencaHoras\DiferencaHoras\obj\Debug\net8.0\DiferencaHoras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Documentos\codigos_github\contador_tempo\csharp\DiferencaHoras\DiferencaHoras\obj\Debug\net8.0\DiferencaHoras.AssemblyInfoInputs.cache
+C:\Documentos\codigos_github\contador_tempo\csharp\DiferencaHoras\DiferencaHoras\obj\Debug\net8.0\DiferencaHoras.AssemblyInfo.cs
+C:\Documentos\codigos_github\contador_tempo\csharp\DiferencaHoras\DiferencaHoras\obj\Debug\net8.0\DiferencaHoras.csproj.CoreCompileInputs.cache
+C:\Documentos\codigos_github\contador_tempo\csharp\DiferencaHoras\DiferencaHoras\obj\Debug\net8.0\DiferencaHoras.sourcelink.json
+C:\Documentos\codigos_github\contador_tempo\csharp\DiferencaHoras\DiferencaHoras\obj\Debug\net8.0\DiferencaHoras.dll
+C:\Documentos\codigos_github\contador_tempo\csharp\DiferencaHoras\DiferencaHoras\obj\Debug\net8.0\refint\DiferencaHoras.dll
+C:\Documentos\codigos_github\contador_tempo\csharp\DiferencaHoras\DiferencaHoras\obj\Debug\net8.0\DiferencaHoras.pdb
+C:\Documentos\codigos_github\contador_tempo\csharp\DiferencaHoras\DiferencaHoras\obj\Debug\net8.0\DiferencaHoras.genruntimeconfig.cache
+C:\Documentos\codigos_github\contador_tempo\csharp\DiferencaHoras\DiferencaHoras\obj\Debug\net8.0\ref\DiferencaHoras.dll

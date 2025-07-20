@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DiferencaHoras")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ac20ad2d8ed0e1bf75c3e21832400c1b1807afd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99ce6bd1af204349368394b1660ed6b08afaeb4a")]
 [assembly: System.Reflection.AssemblyProductAttribute("DiferencaHoras")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DiferencaHoras")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
