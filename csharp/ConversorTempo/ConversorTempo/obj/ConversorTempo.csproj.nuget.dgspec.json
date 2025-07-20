@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Documentos\\codigos_github\\conversor_tempo\\csharp\\ConversorTempo\\ConversorTempo\\ConversorTempo.csproj": {}
+    "C:\\Documentos\\codigos_github\\contador_tempo\\csharp\\ConversorTempo\\ConversorTempo\\ConversorTempo.csproj": {}
   },
   "projects": {
-    "C:\\Documentos\\codigos_github\\conversor_tempo\\csharp\\ConversorTempo\\ConversorTempo\\ConversorTempo.csproj": {
+    "C:\\Documentos\\codigos_github\\contador_tempo\\csharp\\ConversorTempo\\ConversorTempo\\ConversorTempo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Documentos\\codigos_github\\conversor_tempo\\csharp\\ConversorTempo\\ConversorTempo\\ConversorTempo.csproj",
+        "projectUniqueName": "C:\\Documentos\\codigos_github\\contador_tempo\\csharp\\ConversorTempo\\ConversorTempo\\ConversorTempo.csproj",
         "projectName": "ConversorTempo",
-        "projectPath": "C:\\Documentos\\codigos_github\\conversor_tempo\\csharp\\ConversorTempo\\ConversorTempo\\ConversorTempo.csproj",
+        "projectPath": "C:\\Documentos\\codigos_github\\contador_tempo\\csharp\\ConversorTempo\\ConversorTempo\\ConversorTempo.csproj",
         "packagesPath": "C:\\Users\\lucir\\.nuget\\packages\\",
-        "outputPath": "C:\\Documentos\\codigos_github\\conversor_tempo\\csharp\\ConversorTempo\\ConversorTempo\\obj\\",
+        "outputPath": "C:\\Documentos\\codigos_github\\contador_tempo\\csharp\\ConversorTempo\\ConversorTempo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

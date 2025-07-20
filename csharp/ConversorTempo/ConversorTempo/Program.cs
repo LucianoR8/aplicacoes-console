@@ -11,22 +11,40 @@ namespace MyApp
 
 
             int W, X, Y, Z, W1, X1, Y1, Z1, W2, X2, Y2, Z2, inicio, fim, duracao, resto;
+            Console.WriteLine("Contagem de tempo em dias diferentes (leia o arquivo de funcionamento do código)");
+            Console.WriteLine(" ");
 
-            string[] vetor = Console.ReadLine().Split(' ');
-            W1 = int.Parse(vetor[1]);
+            Console.Write("Dia de inicio: ");
+            W1 = int.Parse(Console.ReadLine());
+            Console.WriteLine(" ");
 
-            vetor = Console.ReadLine().Split(' ');
-            X1 = int.Parse(vetor[0]);
-            Y1 = int.Parse(vetor[2]);
-            Z1 = int.Parse(vetor[4]);
+            Console.Write("Hora de inicio: ");
+            X1 = int.Parse(Console.ReadLine());
+            Console.WriteLine(" ");
 
-            vetor = Console.ReadLine().Split(' ');
-            W2 = int.Parse(vetor[1]);
+            Console.Write("Minuto inicial: ");
+            Y1 = int.Parse(Console.ReadLine());
+            Console.WriteLine(" ");
 
-            vetor = Console.ReadLine().Split(' ');
-            X2 = int.Parse(vetor[0]);
-            Y2 = int.Parse(vetor[2]);
-            Z2 = int.Parse(vetor[4]);
+            Console.Write("Segundo inicial: ");
+            Z1 = int.Parse(Console.ReadLine());
+            Console.WriteLine(" ");
+
+            Console.Write("Dia de termino: ");
+            W2 = int.Parse(Console.ReadLine());
+            Console.WriteLine(" ");
+
+            Console.Write("Hora de termino: ");
+            X2 = int.Parse(Console.ReadLine());
+            Console.WriteLine(" ");
+
+            Console.Write("Minuto final: ");
+            Y2 = int.Parse(Console.ReadLine());
+            Console.WriteLine(" ");
+
+            Console.Write("Segundo final: ");
+            Z2 = int.Parse(Console.ReadLine());
+            Console.WriteLine(" ");
 
             inicio = (W1 - 1) * 24 * 60 * 60 + X1 * 60 * 60 + Y1 * 60 + Z1;
             fim = (W2 - 1) * 24 * 60 * 60 + X2 * 60 * 60 + Y2 * 60 + Z2;
@@ -40,10 +58,12 @@ namespace MyApp
             Y = resto / 60;
             Z = resto % 60;
 
-            Console.WriteLine(W + " dia(s)");
-            Console.WriteLine(X + " hora(s)");
-            Console.WriteLine(Y + " minuto(s)");
-            Console.WriteLine(Z + " segundo(s)");
+            Console.WriteLine("Duração de: ");
+            Console.WriteLine(" ");
+            Console.Write(W + " dia(s) ");
+            Console.Write(X + " hora(s) ");
+            Console.Write(Y + " minuto(s) ");
+            Console.Write(Z + " e segundo(s)");
 
 
 
