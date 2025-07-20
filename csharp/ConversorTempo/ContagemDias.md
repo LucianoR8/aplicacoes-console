@@ -8,7 +8,7 @@
 
 ### Sobre:
 
- - [Código](csharp/ConversorTempo/ConversorTempo/Program.cs)
+ - [Código](ConversorTempo/Program.cs)
 
 
 ---
