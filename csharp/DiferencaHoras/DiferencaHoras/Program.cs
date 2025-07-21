@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Globalization;
 
 namespace MyApp
@@ -9,18 +9,24 @@ namespace MyApp
         {
             int horaInicio, minutoInicio, horaFim, minutoFim, totalInicio, totalFim, diferenca, horaFinal, minutoFinal;
 
-            Console.WriteLine("Forneça as informações abaixo para saber a duração total");
+            Console.WriteLine("Contagem de tempo em horas diferentes (leia o arquivo de funcionamento do código");
+            Console.WriteLine(" ");
+
             Console.Write("Hora de inicio: ");
             horaInicio = int.Parse(Console.ReadLine());
+            Console.WriteLine(" ");
 
             Console.Write("Minuto de inicio: ");
             minutoInicio = int.Parse(Console.ReadLine());
+            Console.WriteLine(" ");
 
             Console.Write("Hora final: ");
             horaFim = int.Parse(Console.ReadLine());
+            Console.WriteLine(" ");
 
             Console.Write("Minuto final: ");
             minutoFim = int.Parse(Console.ReadLine());
+            Console.WriteLine(" ");
 
             totalInicio = horaInicio * 60 + minutoInicio;
             totalFim = horaFim * 60 + minutoFim;
