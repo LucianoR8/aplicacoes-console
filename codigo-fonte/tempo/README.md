@@ -2,11 +2,11 @@
 
 ## Sobre
 
-Estudando o desenvolvimento de aplicações 
+As aplicações presentes nesse repositório envolvem a contagem de tempo, seja a diferença de horas de um dia para o outro ou a conversão da quantidade de segundos informado pelo usuário em horas, minutos e segundos. 
 
 ### Tecnologias
 
- O ambiente de desenvolvimento das soluções realizadas foi o Visual Studio Community com o uso do .NET 8.0.
+ O ambiente em que foram desenvolvidas as aplicações aqui presentes foi o Visual Studio Community com o uso do .NET 8.0 para a linguagem C#.
 
 ### Especificações
 
