@@ -1,15 +1,37 @@
-# Contagem de tempo em dias diferentes
+# Diferença de Horas
 
-## Essa aplicação tem como objetivo trazer detalhadamente a diferença de tempo entre dias diferentes
+## Sobre:
+
+ Essa aplicação tem como objetivo trazer detalhadamente a diferença de tempo entre dias diferentes.
+
+### Tecnologias utilizadas:
+
+ - C#
+ - .NET 8.0
+ - Console Application
 
 ### Como funciona:
 
- O usuário irá informar o dia, hora, minuto e segundo em que começará e em que terminará a contagem, no final o programa irá imprimir na tela a diferença de tempo.
+***Entrada de dados***
 
-### Sobre:
+[Imagem]
 
- - [Código](ConversorTempo/Program.cs)
+***Processamento de Dados***
 
+[explicação]
+
+***Saída de Dados***
+
+[imagem]
+
+
+### Código-Fonte:
+
+ - [Contagem de dias](https://github.com/LucianoR8/aplicacoes-console/blob/master/codigo-fonte/tempo/csharp/ConversorDias/contagem-dias/Program.cs)
+
+### Melhorias futuras:
+
+ - Adaptar o código em formato web, assim tornando o uso da aplicação mais intuitiva.
 
 ---
 Feito por [Luciano Ribeiro](https://github.com/LucianoR8)
