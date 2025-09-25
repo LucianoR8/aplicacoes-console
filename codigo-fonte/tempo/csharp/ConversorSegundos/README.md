@@ -27,11 +27,11 @@
 
   ### Código-Fonte:
 
-    - [Conversor de segundos](https://github.com/LucianoR8/aplicacoes-console/blob/master/codigo-fonte/tempo/csharp/ConversorSegundos/Program.cs)
+  - [Conversor de segundos](https://github.com/LucianoR8/aplicacoes-console/blob/master/codigo-fonte/tempo/csharp/ConversorSegundos/Program.cs)
 
   ### Melhorias futuras:
 
-    - Adaptar o código em formato web, assim tornando o uso da aplicação mais intuitiva.
+  - Adaptar o código em formato web, assim tornando o uso da aplicação mais intuitiva.
 
 ---
 Feito por [Luciano Ribeiro](https://github.com/LucianoR8)
