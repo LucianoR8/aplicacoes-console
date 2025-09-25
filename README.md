@@ -1,16 +1,18 @@
-# Contagem de tempo
+# Desenvolvendo algoritmos
 
-## Desenvolvimento de aplicações que envolvem contagem de tempo
+## Sobre
+**Índice** para acompanhar o desenvolvimento de aplicações com as linguagens de programação C# e Python no momento.
+Abaixo há links para as soluções organizadas de forma individual, mostrando como cada uma funciona de forma explicativa.
 
-### Tecnologias
+O objetivo é praticar e melhorar o uso de linguagens de programação de forma simples e útil, documentando o processo de desenvolvimento e trazendo ideias para melhorias futuras.
 
- O ambiente de desenvolvimento das soluções realizadas foi o Visual Studio Community com o uso do .NET 8.0.
+### Aplicações
 
-### Especificações
+ - [Tempo](https://github.com/LucianoR8/aplicacoes-console/blob/master/codigo-fonte/tempo/README.md),
+ - [Dinheiro](https://github.com/LucianoR8/separador-dinheiro)
 
- - [Contagem de Horas](https://github.com/LucianoR8/contagem-tempo/blob/master/codigo-fonte/tempo/csharp/DiferencaHoras/ContagemHoras.md)
- - [Contagem de Dias](https://github.com/LucianoR8/contagem-tempo/blob/master/codigo-fonte/tempo/csharp/ConversorDias/readme.md)
- - [Contagem de Segundos](https://github.com/LucianoR8/contagem-tempo/blob/master/codigo-fonte/tempo/csharp/ConversorSegundos/README.md)
+### Ideias:
+Adaptar essas aplicações para funcionar também em ambiente web, fazendo uso de HTML, CSS e JavaScript.
 
 ---
-Feito por [Luciano Ribeiro](https://github.com/LucianoR8)
+Feito por [Luciano Ribeiro](https://github.com/LucianoR8).
