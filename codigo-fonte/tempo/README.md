@@ -1,15 +1,18 @@
 # Contagem de tempo
 
-## Desenvolvimento de aplicações que envolvem contagem de tempo
+## Sobre
 
-### Tecnologias utilizadas:
+Estudando o desenvolvimento de aplicações 
 
- Para o desenvolvimento desse repositório está sendo utilizado o ambiente de desenvolvimento do Visual Studio e a linguagem de programação C# como ferramenta de console.
+### Tecnologias
 
-### Especificação do funcionamento das aplicações:
+ O ambiente de desenvolvimento das soluções realizadas foi o Visual Studio Community com o uso do .NET 8.0.
 
- - [Contagem de Dias](csharp/ConversorTempo/ContagemDias.md)
- - [Contagem de Horas](csharp/DiferencaHoras/ContagemHoras.md)
+### Especificações
+
+ - [Contagem de Horas](https://github.com/LucianoR8/contagem-tempo/blob/master/codigo-fonte/tempo/csharp/DiferencaHoras/ContagemHoras.md)
+ - [Contagem de Dias](https://github.com/LucianoR8/contagem-tempo/blob/master/codigo-fonte/tempo/csharp/ConversorDias/readme.md)
+ - [Contagem de Segundos](https://github.com/LucianoR8/contagem-tempo/blob/master/codigo-fonte/tempo/csharp/ConversorSegundos/README.md)
 
 ---
 Feito por [Luciano Ribeiro](https://github.com/LucianoR8)
