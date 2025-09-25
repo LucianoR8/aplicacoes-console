@@ -1,15 +1,37 @@
-# Contagem de tempo em horas diferentes
+# Diferença de Horas
 
-## Essa aplicação tem como objetivo trazer detalhadamente a diferença de tempo entre horas diferentes
-
-### Como funciona:
+## Sobre:
 
  O usuário irá informar a hora, minuto e segundo em que começará e em que terminará a contagem, no final o programa irá imprimir na tela a diferença de tempo.
 
-### Sobre:
+### Tecnologias utilizadas:
 
- - [Código](DiferencaHoras/Program.cs)
+ - C#
+ - .NET 8.0
+ - Console Application
 
+### Como funciona:
+
+***Entrada de dados***
+
+[Imagem]
+
+***Processamento de Dados***
+
+[explicação]
+
+***Saída de Dados***
+
+[imagem]
+
+
+### Código-Fonte:
+
+ - [Diferença de Horas](https://github.com/LucianoR8/aplicacoes-console/blob/master/codigo-fonte/tempo/csharp/DiferencaHoras/DiferencaHoras/Program.cs)
+
+### Melhorias futuras:
+
+ - Adaptar o código em formato web, assim tornando o uso da aplicação mais intuitiva.
 
 ---
 Feito por [Luciano Ribeiro](https://github.com/LucianoR8)
