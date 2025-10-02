@@ -9,7 +9,11 @@ O objetivo é praticar e melhorar o uso de linguagens de programação de forma 
 ### Aplicações
 
  - [Tempo](https://github.com/LucianoR8/aplicacoes-console/blob/master/codigo-fonte/tempo/README.md),
- - [Dinheiro](https://github.com/LucianoR8/separador-dinheiro)
+ - [Dinheiro](https://github.com/LucianoR8/separador-dinheiro),
+ - Temperatura,
+ - Sistemas Númericos,
+ - Formas Geométricas,
+ - Sequência de Fibonacci,
 
 ### Ideias:
 Adaptar essas aplicações para funcionar também em ambiente web, fazendo uso de HTML, CSS e JavaScript.
