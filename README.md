@@ -1,7 +1,7 @@
 # Desenvolvendo algoritmos
 
 ## Sobre
-**Índice** para acompanhar o desenvolvimento de aplicações com as linguagens de programação C# e Python no momento.
+**Índice** para acompanhar o desenvolvimento de aplicações com a linguagem de programação C# no momento.
 Abaixo há links para as soluções organizadas de forma individual, mostrando como cada uma funciona de forma explicativa.
 
 O objetivo é praticar e melhorar o uso de linguagens de programação com orientação a objetos de forma simples e útil, documentando o processo de desenvolvimento e trazendo ideias para melhorias futuras.
