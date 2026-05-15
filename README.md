@@ -16,7 +16,7 @@ O objetivo é praticar e melhorar o uso de linguagens de programação com orien
  - Sequência de Fibonacci,
 
 ### Ideias:
-Adaptar essas aplicações para funcionar também em ambiente web, fazendo uso de HTML, CSS e JavaScript.
+Adaptar essas aplicações para funcionar também em ambiente web, utilizando HTML, CSS e JavaScript.
 
 ---
 Feito por [Luciano Ribeiro](https://github.com/LucianoR8).
