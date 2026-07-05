@@ -10,10 +10,10 @@ O objetivo é praticar e melhorar o uso de linguagens de programação com orien
 
  - [Tempo](https://github.com/LucianoR8/aplicacoes-console/blob/master/codigo-fonte/tempo/README.md),
  - [Dinheiro](https://github.com/LucianoR8/separador-dinheiro),
- - Temperatura,
- - Sistemas Númericos,
- - Formas Geométricas,
- - Sequência de Fibonacci,
+ - Temperatura(em breve),
+ - Sistemas Númericos(em breve),
+ - Formas Geométricas(em breve),
+ - Sequência de Fibonacci(em breve),
 
 ### Ideias:
 Adaptar essas aplicações para funcionar também em ambiente web, utilizando HTML, CSS e JavaScript.
